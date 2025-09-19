@@ -72,7 +72,7 @@ class TaskManager:
             print(f"Error loading tasks: {e}")
             print("Starting with empty task list.")
 
-def display_menu():
+def display_menu(): 
     """Display the main menu"""
     print("\n" + "="*30)
     print("PERSONAL TASK MANAGER")
